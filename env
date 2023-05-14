@@ -1,0 +1,25 @@
+### Email (Gmail)
+USER_EMAIL_PROVIDER = 'gmail'
+USER_NAME = 'Night Bot'
+USER_EMAIL = 'arikarayarikaray@gmail.com'
+USER_APP_PASSWORD = 'oqxxnernlxzziujh'
+
+### Neoxr API : https://api.neoxr.my.id
+API_KEY = 'sokAXL'
+
+### Open AI : https://beta.openai.com/account/api-keys
+OPENAI_API_KEY = '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'
+
+### Database : https://www.mongodb.com/
+DATABASE_URL = 'mongodb+srv://montonminta:vQCKV3m2e7UAHdw2@cluster0.o02x8r6.mongodb.net/?retryWrites=true&w=majority'
+
+### Chatbot (Auto Reply) : https://brainshop.ai/
+BRAIN_API_ID = 172389
+BRAIN_API_SECRET = 'ryw2Ek6jmPvDbgL6'
+
+### Anti Porn : https://api.sightengine.com
+API_USER = '163126376'
+API_SECRET = 'twSpsw3bvoS3Ses9ovt5'
+
+### Audio Transcription (Whisper) : https://replicate.com/account/api-tokens
+REPLICATE_API_TOKEN = 'r8_Sf4HwIPij7ff5KnT0ebxMj2bYEvGZ4k36CrUL'
